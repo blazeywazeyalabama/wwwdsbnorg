@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="i`9Gw!f?4OsM1[mqGe`7" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="}9n2%?IxxbOm;,4z}F}n"><value name="text"><shadow type="text" id="Mnwp9g8QwiGfXwr0A8n:"><field name="TEXT">John Here, How Are You?        Idc, Im doing Good In The Motel.</field></shadow></value></block></statement></block><block type="device_button_event" id="qkoQlV`;pUIG9U;Aq67_" x="24" y="137"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="THL3!iYTzxs]DX7hjoo8"><field name="LEDS">`
-        # . . # # 
-        . # # . . 
-        # . . # # 
-        . # # . . 
-        # . . # #
-        `</field></block></statement></block><block type="device_button_event" id="%|2ZoIg@Fw:Y%)?_mT{d" x="203" y="297"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_clear_display" id="g[gE!^?EtJW=[mn[,kk-"></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="i`9Gw!f?4OsM1[mqGe`7" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="}9n2%?IxxbOm;,4z}F}n"><value name="text"><shadow type="text" id="Mnwp9g8QwiGfXwr0A8n:"><field name="TEXT">John Here, How Are You?        Idc, Im Doing Good In The Motel.</field></shadow></value></block></statement></block><block type="device_button_event" id="qkoQlV`;pUIG9U;Aq67_" x="24" y="137"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="THL3!iYTzxs]DX7hjoo8"><field name="LEDS">`
+        # . # . # 
+        . # # . # 
+        # . . # . 
+        . # # . # 
+        # . # . #
+        `</field></block></statement></block><block type="device_button_event" id="%|2ZoIg@Fw:Y%)?_mT{d" x="287" y="252"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_clear_display" id="g[gE!^?EtJW=[mn[,kk-"></block></statement></block></xml>
